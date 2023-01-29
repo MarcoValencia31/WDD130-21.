@@ -1,0 +1,87 @@
+#content
+{ max-width: 1600px;
+    margin: 0 auto
+}
+
+nav a{
+    text-align: center;
+    background-color: #909379;
+    color: #ffffff;
+    text-decoration: none;  
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}       
+
+#hero-msg h1
+{text-align: center}
+#hero-msg h4
+{text-align: center}    
+.button-box
+{text-align: center} 
+main section
+{text-align: center} 
+
+#background {
+    height: 725px;
+}   
+
+#hero-img{
+    width: 100%;
+}
+body{
+    background-color: #258A2F; 
+}
+header{
+    background-color:#014A7F;
+}
+/*home title is the word have an adventure*/
+.home-title
+/*h4 is the word below have an adventure*/
+h4
+.book{
+    background-color: #014A7F;
+    color: #FF0000;
+    text-decoration: none;
+}
+.join{
+    background-color: #014A7F;  
+    text-decoration: none;
+    color: #FF0000;
+}
+.book:hover
+.join:hover
+.icon {
+    width: 80px;
+}
+
+#background{
+    background-color: #014A7F;   
+     height: 725px; 
+}
+.msg{
+    background-color: #909379;
+}
+.msg h2{
+    color: #014A7F;
+}
+.msg p{
+    color: #000000;
+}
+footer{
+    background-color: #909379;
+}
+footer a{
+    text-decoration: none;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+footer p {
+    font-size: 1.2em;
+    color: #014A7F;
+}   
+
+
