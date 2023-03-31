@@ -240,17 +240,18 @@ nav a:hover {
   display: flex;
   justify-content: center;
   grid-column: 1/5;
-  width: 100% ;
+  width: max ;
   z-index:-1
 }
 
 .mypage-title{
   grid-column: 2/4;
   z-index: 0;
-  color: #ffffff;
-  margin-top: -500px;
+  color: #000000;
+  margin-top: -300px;
   font-family: "Shantell Sans, Helvetica, sans-serif";
-  font-size: 3em
+  font-size: 2em;
+  
 }
 #mainhome{
   margin-top: 600px;
